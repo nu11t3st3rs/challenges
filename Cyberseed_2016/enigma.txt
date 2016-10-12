@@ -1,0 +1,13 @@
+You've come across an enigma machine, decode the cipher!
+
+Here's what you know:
+-To obtain the key, set your display to 'GQT' and decrypt the message key 'UKJ'
+- Walzenlage: The rotors are 'I, II, III', but their order is unknown.
+- Ringstellung: The ring settings are unknown
+- Steckerverbindungen: The last plug is missing from the plugboards leaving you with: 'BF CM DR HQ JK LU OY PW ST ??'
+
+Cipher: GCXSSBPPIUDNWXJZGIICUEFYGISQOCGLLGMMKYHJ
+you also know that the decrypted cipher contains the string 'BELADEN'
+
+Enter the decrpted cipher as the flag 
+
